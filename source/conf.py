@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'tangtu robot'
-copyright = u'2019, jerry sun'
-author = u'jerry sun'
+project = u'tangtubot-docs'
+copyright = u'2019, tangtu robot team'
+author = u'tangtubot team'
 
 # The short X.Y version
 version = u''
@@ -38,8 +38,7 @@ release = u'0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+extensions = ['recommonmark']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['ytemplates']
