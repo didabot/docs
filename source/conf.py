@@ -40,8 +40,7 @@ release = u'0.1'
 # ones.
 # extensions = ['recommonmark']
 extensions = [
-    'sphinxcontrib.httpdomain',
-    'recommonmark',
+    'recommonmark'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
