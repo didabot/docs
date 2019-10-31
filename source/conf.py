@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'tangtubot-docs'
-copyright = u'2019, tangtu robot team'
-author = u'tangtubot team'
+project = u'嘀嗒机器人学习中心'
+copyright = u'2019, dida robot team'
+author = u'dida robot team'
 
 # The short X.Y version
 version = u''
