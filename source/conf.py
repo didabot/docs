@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'嘀嗒机器人学习中心'
-copyright = u'2019, dida robot team'
-author = u'dida robot team'
+copyright = u'©2019 嘀嗒机器人'
+author = u'嘀嗒机器人'
 
 # The short X.Y version
 version = u''
@@ -73,6 +73,7 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+# html_theme = 'sphinx_rtd_theme'
 html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -95,6 +96,8 @@ html_static_path = ['ystatic']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
+
+#html_logo = 'ystatic/logo.jpg'
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
