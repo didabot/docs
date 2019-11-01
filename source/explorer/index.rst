@@ -15,5 +15,7 @@
 .. raw:: html
 
    <div style="text-align: center; margin-bottom: 2em;">
-   <iframe width="100%" height="350" src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+   <iframe width="100%" height="350" 
+   src="https://dida-disk.oss-cn-beijing.aliyuncs.com/test.mp4?Expires=1572602119&OSSAccessKeyId=TMP.hfcARczEmCaLU4Q18qhLi3MMEJMxGxqa3LU5YyEkXM2gVbtdLx5TMUPuhF9ggGGcNJHXEQ2kQiCF5gP9tmVCTvrkheQQVJ2kaBbFy51rbVR8GTKGgENdp2DUsZyAbj.tmp&Signature=RJsHfQFRROHCh%2BrjE4VMooqP0hw%3D" frameborder="0" allow="autoplay" allowfullscreen>
+   </iframe>
    </div>

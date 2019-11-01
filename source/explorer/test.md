@@ -2,6 +2,7 @@
 安装调试
 =======
 
-<div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://player.youku.com/embed/XMzMxMjE0MjY4NA==" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://dida-disk.oss-cn-beijing.aliyuncs.com/test.mp4?Expires=1572602119&OSSAccessKeyId=TMP.hfcARczEmCaLU4Q18qhLi3MMEJMxGxqa3LU5YyEkXM2gVbtdLx5TMUPuhF9ggGGcNJHXEQ2kQiCF5gP9tmVCTvrkheQQVJ2kaBbFy51rbVR8GTKGgENdp2DUsZyAbj.tmp&Signature=RJsHfQFRROHCh%2BrjE4VMooqP0hw%3D" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
