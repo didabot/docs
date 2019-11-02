@@ -6,8 +6,43 @@
 欢迎来到嘀嗒机器人学习中心
 ===========================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 目录:
+机器人学习中心是嘀嗒机器人团队倾力打造的在线学习和分享平台，学习中心为您提供了嘀嗒机器人旗下所有产品的资料、文档和教程，
+方便您随时随地在线学习.
 
-   explorer/index
+
+开始学习
+-----------
+
+* **开源硬件**
+
+  :doc:`microbit <openhw/microbit/index>`
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: 开源硬件
+
+   openhw/microbit/index
+
+* **机器人**
+
+  :doc:`探索者机器人 <robot/explorer/index>`
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: 机器人
+
+   robot/explorer/index
+
+* **传感器以及配件**
+
+  :doc:`超声波传感器 <accessories/ultrasonic/index>`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: 传感器及配件
+
+   accessories/ultrasonic/index
