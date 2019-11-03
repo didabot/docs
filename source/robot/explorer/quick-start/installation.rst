@@ -1,4 +1,4 @@
-探索者机器人安装指南
+组装你的机器人
 =======================================
 
 在这里你将学会如何一步一步安装你的探索者机器人
@@ -107,6 +107,49 @@
    :height: 500px
    :scale: 70 %
    :align: center
+
+
+第4步 连接云台头和基座
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+你需要准备
+
+* **组装完毕的云台状态 × 1**
+* **组装完毕的云台基座和主板 × 1**
+* **M2舵机螺钉**
+* **十字螺丝刀**
+
+将机器人电源开关拨至 **ON** 状态打开电源，默认的出厂程序会自动校准舵机零点
+
+.. image:: ../images/installation/power-robot-on.png
+   :width: 785px 
+   :height: 439px
+   :scale: 70 %
+   :align: center
+
+
+几秒钟后将机器人电源开关拨至 **OFF** 状态关闭电源，按照下面的步骤完成安装,注意
+超声波传感器要面向机器人的正前方安装
+
+
+.. image:: ../images/installation/connect-header-base.gif
+   :width: 500px 
+   :height: 500px
+   :scale: 70 %
+   :align: center
+
+
+安装完成后的效果
+
+.. image:: ../images/installation/complete-header-base.gif
+   :width: 500px 
+   :height: 500px
+   :scale: 70 %
+   :align: center
+
+好了，恭喜你完成了探索者机器人的安装，接下来你可以选择学习中心其它的课程去学习了。
+
+
 
 
 
