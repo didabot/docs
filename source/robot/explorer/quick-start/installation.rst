@@ -97,7 +97,7 @@
 .. image:: ../images/installation/connect-base.gif
    :width: 500px 
    :height: 500px
-   :scale: 50 %
+   :scale: 70 %
    :align: center
 
 安装完成后的效果
