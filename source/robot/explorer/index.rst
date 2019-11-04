@@ -2,7 +2,7 @@
 =======================================
 
 欢迎使用探索者机器人
-------------------
+----------------------
 
 .. image:: images/robot-front-view.png
    :height: 3125px
@@ -40,15 +40,15 @@
 如果您是第一次拿到探索者机器人，迫不及待地想要快速体验一下它神奇的功能，请按照
 下面的指引快速开始吧
 
-* **第一步**:
+* **第1步**:
   :doc:`组装你的机器人 <quick-start/installation>`
 
 
-* **第二步**:
+* **第2步**:
   :doc:`为机器人充电 <quick-start/charging>`
 
 
-* **第二步**:
+* **第3步**:
   :doc:`第一个机器人程序 <quick-start/first-program>`
 
 
@@ -61,4 +61,43 @@
    quick-start/installation
    quick-start/charging
    quick-start/first-program
+
+
+硬件
+-------
+
+如果您已经小小体验过探索者机器人的神奇之处，想要更深入地了解它，这里我们将为您详细介绍
+:doc:`探索者机器人硬件 <hardware/index>` 的组成和原理
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Hradware Description
+
+   hardware/index
+
+
+软件
+-------
+
+如果您已经对探索者有了充分的了解，想要学习如果为它编程来控制它，这里我们为您提供了一系列
+:doc:`编程课程 <tutorials/index>` 供您学习
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Programming Tutorials
+
+   tutorials/index
+
+
+
+
+
+
+
+
+
+
+
 
