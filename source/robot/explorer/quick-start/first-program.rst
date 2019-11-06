@@ -5,6 +5,13 @@
 本例子我们选择MakeCode做为我们的编程工具。我们将演示如何为机器人编程点亮机器人底盘
 的氛围灯并且设置为不同的颜色
 
+.. image:: http://dida-disk.oss-cn-beijing.aliyuncs.com/first-program-640x.gif?OSSAccessKeyId=
+           LTAI4FptDL2J8UW5NdrmX1JP&Expires=1604558549&Signature=AXKmHid0J0K0SMYdynkckoSbjb0%3D   
+   :width: 640px 
+   :height: 340px
+   :scale: 100 %
+   :align: center
+
 第1步 连接机器人和电脑
 ----------------------
 
