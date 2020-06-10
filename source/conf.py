@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'嘀嗒机器人学习中心'
-copyright = u'©2019 嘀嗒机器人'
-author = u'嘀嗒机器人'
+project = u'DIDABOT学习中心'
+copyright = u'©2019 DIDABOT'
+author = u'DIDABOT'
 
 # The short X.Y version
 version = u''

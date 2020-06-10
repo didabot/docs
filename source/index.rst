@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到嘀嗒机器人学习中心
+欢迎来到DIDABOT学习中心
 ===========================
 
-机器人学习中心是嘀嗒机器人团队倾力打造的在线学习和分享平台，学习中心为您提供了嘀嗒机器人旗下所有产品的资料、文档和教程，
+DIDABOT学习中心是嘀嗒机器人团队倾力打造的在线学习和分享平台，学习中心为您提供了嘀嗒机器人旗下所有产品的资料、文档和教程，
 方便您随时随地在线学习.
 
 
@@ -26,14 +26,14 @@
 
 * **机器人**
 
-  :doc:`探索者机器人 <robot/explorer/index>`
+  :doc:`探索者机器人 <robot/modou/index>`
 
 .. toctree::
    :maxdepth: 1
    :hidden:
    :caption: 机器人
 
-   robot/explorer/index
+   robot/modou/index
 
 * **传感器以及配件**
 
